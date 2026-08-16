@@ -1,0 +1,13 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+#root{
+    padding: 20px;
+    background-color: black;
+    color: white;
+}
+h1+div{
+    padding: 0px 0px 20px;
+}
